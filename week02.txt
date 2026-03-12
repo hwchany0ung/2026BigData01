@@ -1,1 +1,3 @@
-git,linux 명령어 실습
+1교시:git,linux 명령어 실습
+ linux 명령어 : ls,cd,vi,cp,rm,echo,>,>>,touch,cat
+ git 명령어 : add,status,reset,commit,commit -m "message"
