@@ -1,3 +1,4 @@
+import statistics
 scores = [100,87,97,82]
-average = sum(scores)/len(scores)
+average = statistics.mean(scores)
 print(average)
