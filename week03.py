@@ -1,0 +1,4 @@
+import numpy  #서드파티 라이브러리 C 배열 기반으로 대규모 데이터처리에 적합 매우 빠름
+scores = [100,87,97,82]
+average = numpy.mean(scores)
+print(average)
